@@ -1,9 +1,20 @@
 {
-    
-    
-     "bares": [{
-        "id": 1,
-        "nombre": "Casa Pepe"
-       }
+    "users": [
+        {
+            "id": 1,
+            "name": "roy",
+            "location": "india"
+        },
+        {
+            "id": 3,
+            "name": "sam",
+            "location": "wales"
+        }
+    ],
+    "bares": [
+        {
+            "id": 1,
+            "nombre": "Casa Pepe"
+        }
     ]
 }
