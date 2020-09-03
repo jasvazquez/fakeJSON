@@ -14,19 +14,23 @@
     "bares": [
         {
             "id": 1,
-            "nombre": "Casa Pepe"
+            "nombre": "Casa Pepe",
+            "visitas": 20
         },
         {
             "id":27,
-            "nombre": "Telepizza"
+            "nombre": "Telepizza",
+            "visitas": 1
         },
         {
             "id":15,
-            "nombre": "Quijote"
+            "nombre": "Quijote",
+            "visitas": 5
         },
         {
             "id":4,
-            "nombre": "Casa Jaime"
+            "nombre": "Casa Jaime",
+            "visitas": 8
         }
     ]
 }
